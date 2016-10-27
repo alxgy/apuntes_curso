@@ -1,4 +1,5 @@
  ## curso git desde cero
+esto es un sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
 ### zonas de git
 1. directorio de trabajo
