@@ -1,4 +1,4 @@
- ## curso git desde cero
+ ### Curso git desde cero
 esto es un sistema de control de versiones para el mantenimiento eficiente y confiable de archivos.
 
 ### zonas de git
@@ -18,4 +18,4 @@ sadfsdafsfaddfsadgdssdaf
 sadfsdafsfaddfsadgdssdafdsf
 asfasfas
 ```
-Esta linea fue creada en la rama master. 
+Esta linea fue creada en la rama master.
