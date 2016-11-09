@@ -5,4 +5,7 @@ Una rama en git es simplemente un apuntador movil apuntando a uno de los commits
 Nos muestra que ramas no han sido fusionadas a la rama actual.
 
 ### git branch --merged
-Nos muestra las ramas que han sido fusionadas a la rama actual. 
+Nos muestra las ramas que han sido fusionadas a la rama actual.
+
+Puedo crear todas las ramas que quiera y/o necesite.
+Las ramas nuevas que se crean apuntan al commit actual donde estamos ubicados nosotros. 
